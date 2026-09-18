@@ -49,6 +49,6 @@ Where:
 <img width="738" height="1600" alt="ex 7 O" src="https://github.com/user-attachments/assets/4dccbb2d-f585-47a7-aa10-3e69b8109fea" />
 
 
-## Result: 
+## RESULT: 
 The message signal, carrier signal, and phase-modulated (PM) signal will be displayed in separate plots.
 
