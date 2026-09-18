@@ -41,5 +41,13 @@ Where:
    * Use Scilab's plotting commands (`subplot`, `plot`, `xtitle`, `xgrid`) to display message, carrier, and modulated signals.
 
 ---
+## TABULATION:
+<img width="738" height="1600" alt="ex 7 T" src="https://github.com/user-attachments/assets/f2ffc39a-7124-447a-ac2f-0b660a906465" />
+
 
 ## MODEL GRAPH
+<img width="738" height="1600" alt="ex 7 O" src="https://github.com/user-attachments/assets/4dccbb2d-f585-47a7-aa10-3e69b8109fea" />
+
+
+Result The message signal, carrier signal, and phase-modulated (PM) signal will be displayed in separate plots.
+
