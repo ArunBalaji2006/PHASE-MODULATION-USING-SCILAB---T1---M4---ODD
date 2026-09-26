@@ -50,5 +50,7 @@ Where:
 
 
 ## RESULT: 
+<img width="591" height="1280" alt="EX - 5 AC" src="https://github.com/user-attachments/assets/d3c3e454-242b-4c51-8e3f-dd4b3fee3a81" />
+
 The message signal, carrier signal, and phase-modulated (PM) signal will be displayed in separate plots.
 
